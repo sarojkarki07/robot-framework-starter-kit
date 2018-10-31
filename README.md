@@ -11,7 +11,7 @@ are structured.
 ### Prerequisites
 * Python 2.7
 * PIP package manager
-* Downlaod [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
+* Download [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/downloads)
 * Install any of the following editor for Robot Framework. 
   * Eclipse IDE
   * PyCharm
