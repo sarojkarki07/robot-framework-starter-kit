@@ -20,6 +20,7 @@ are structured.
 ### Installation
     pip install -r requirement.txt
     
+
 ## Configuration
 * Copy credentials_template.robot and paste to same location with name credentials.robot
 * Open credentials.robot
@@ -43,13 +44,18 @@ are structured.
   * robot -t "testcase" testSuiteName
 
 ## Test Files
-Test case files are located in the `login` directory. 
+A sample Test Case for login is located in the `login` directory. 
 
 `Valid Login.robot`
 
-	A test suite containing single test case for valid login. This test case is created using keywords from the imported resource file. 
-	
+	This robot file contains a single test case for valid login. This test case is created using keywords from the imported resource file. 
+
+`resources` (Directory)
+
+	A sample resource directory for login test suite. 
+
 ## Resource	
 `global_resources`(Directory)
 
-	A resource file with resuable keywords and variables. It contains specific keywords created for web application.
+	A common resource file with resuable keywords and variables. It contains specific keywords created for web application. 
+	It can be used for every test suite. 
