@@ -1,4 +1,4 @@
-# Robot Framework
+# A starter kit for Robot Framework
 
 Robot Framework is a generic open source test automation framework and Selenium Library is one of the many test libraries that can be used with it. In addition to showing how they can be used together for web testing, this introduces the very basic Robot Framework test data syntax and how tests files are structured.
 
