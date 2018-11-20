@@ -11,7 +11,7 @@ This starter kit is a basic project setup that can be used to test web applicati
 * Install any of the following editor for Robot Framework.
   * Eclipse IDE
   * PyCharm
-  * RIDE [wxPython 2.8.12.1](https://github.com/sarojkarki07/robot-framework-starter-kit/blob/master/wxPython2.8-win64-unicode-2.8.12.1-py27.exe) is needed for RIDE editor.
+  * RIDE [wxPython 2.8.12.1](https://drive.google.com/file/d/1H4GMFjIbhsfOpstUhRDIviosVdYtz5Bj/view) is needed for RIDE editor.
 
 ### Installation
 
