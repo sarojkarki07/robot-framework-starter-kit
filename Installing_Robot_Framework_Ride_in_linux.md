@@ -1,4 +1,4 @@
-# Installing Robot Framework with RIDE in ubuntu.
+# Installing Robot Framework with RIDE on ubuntu.
 ## Preconditions
 
 ## Python
@@ -19,7 +19,7 @@
 
 ## Selenium2Library
 
-```➜  ~ sudo pip install robotframework-selenium2library```
+```➜  ~ sudo pip install robotframework-selenium2library==```
 
 ## Installing Robot Framework
 
