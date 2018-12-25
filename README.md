@@ -67,3 +67,7 @@ A sample resource directory for login test suite.
 `global_resources`(Directory)
 
 A common resource file with reusable keywords and variables. It contains specific keywords created for web application. It can be used for every test suite.
+
+
+
+### Click Here [`For Installing Robot Framework with RIDE in Linux`](Installing_Robot_Framework_Ride_in_linux.md) 
